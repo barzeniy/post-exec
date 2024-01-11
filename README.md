@@ -1,0 +1,1 @@
+Enables delayed execution of a specified function by a defined period of time.
